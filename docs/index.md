@@ -1,1 +1,1 @@
-[Site Map](/docs/site-map.md)
+[Site Map](./site-map.md)
